@@ -11,5 +11,5 @@ It is a simple django project or website in which we can Analyze text.
 5)Numbers Remover<br>
 
 # Requirments
-python3<br>
-django
+1)python3<br>
+2)django
